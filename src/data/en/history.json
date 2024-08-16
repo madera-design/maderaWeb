@@ -1,0 +1,36 @@
+[
+  {
+    "role": "Sr. Desarrollador fronted",
+    "organisation": "Mobiik",
+    "startDate": "Septiembre, 2023",
+    "endDate": "junio, 2024",
+    "experiences": [
+      "Gestión de la arquitectura y recursos frontend.", 
+      "Coordinación del equipo para implementar y corregir bugs en la UI.", 
+      "Coordinación con diseño para analizar vistas."
+    ]
+  },
+  {
+    "role": "Desarrollador fronted",
+    "organisation": "TAAG Genetics",
+    "startDate": "Junio, 2021",
+    "endDate": "Abril, 2023",
+    "experiences": [
+      "Desarrollo de componentes reutilizables.", 
+      "Integración de librerías externas para mejorar la usabilidad.",
+      "Gestión del estado global con Redux."
+    ]
+  },
+  {
+    "role": "Desarrollador frontend Jr.",
+    "organisation": "Elipse web",
+    "startDate": "Enero, 2020",
+    "endDate": "Diciembre, 2021",
+    "experiences": [
+      "Diseñar y prototipar sitio web",
+      "Maquetación de sitio web",
+      "Levantamiento de requerimientos para el sitio web"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

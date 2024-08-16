@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Sistema CNJ",
+    "imageSrc": "projects/project.png",
+    "description": "Sistema administrativo desarrollado para el Poder Judicial de la CDMX, diseñado para optimizar la gestión de expedientes, recursos y procesos internos, mejorando la eficiencia y la transparencia en la administración de la justicia.",
+    "skills": ["Vue 3", "Pinia", "Typescript", "Quasar"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "TXA",
+    "imageSrc": "projects/project.png",
+    "description": "Sistema de control microbiológico para la detección de bacterias en alimentos, que facilita el monitoreo y la gestión de muestras, garantizando la seguridad alimentaria a través de la identificación precisa de contaminantes.",
+    "skills": ["Vue 2", "Pinia", "PrimeVue", "Sass"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Sitema PMN",
+    "imageSrc": "projects/project.png",
+    "description": "Sistema administrativo implementado para PMN, una empresa de seguros especializada en doctores, que automatiza la gestión de pólizas, reclamos y atención al cliente, mejorando la precisión y la rapidez en el servicio.",
+    "skills": ["Vue 3", "Pinia", "PrimeVue", "Sass"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "App Task",
+    "imageSrc": "projects/project.png",
+    "description": "Aplicación de gestión de tareas que simula el control de proyectos, permitiendo a los usuarios organizar, priorizar y dar seguimiento a sus actividades de manera eficiente, con funcionalidades adicionales de reportes y estadísticas de desempeño.",
+    "skills": ["Vue 2", "Next.js", "Vuetify"],
+    "demo": "https://app-task-flame.vercel.app/",
+    "source": "https://github.com/madera-design/AppTask"
+  },
+  {
+    "title": "Búsqueda de GitHub",
+    "imageSrc": "projects/project.png",
+    "description": "Aplicación conectada a la API de GitHub, desarrollada para facilitar la búsqueda de repositorios y usuarios, con filtros avanzados y opciones de visualización que mejoran la experiencia de los desarrolladores al explorar proyectos.",
+    "skills": ["React", "Redux", "Css", "jest"],
+    "demo": "https://github-serach.vercel.app/",
+    "source": "https://github.com/madera-design/github-serach"
+  },
+  {
+    "title": "carrito de compra",
+    "imageSrc": "projects/project.png",
+    "description": "Aplicación conectada a una API para simular un entorno de compras en línea, que ofrece una experiencia de usuario fluida con funcionalidades de catálogo, carrito de compras y procesamiento de pagos, ideal para pruebas y prototipos de comercio electrónico.",
+    "skills": ["React", "Redux", "Css", "jest"],
+    "demo": "https://sps-web-shop-jose-madera.vercel.app/",
+    "source": "https://github.com/madera-design/sps-web-shop-JoseMadera"
+  },
+  {
+    "title": "Dashboard metricas",
+    "imageSrc": "projects/project.png",
+    "description": "Aplicación conectada a la API de Google Metrics, diseñada para generar gráficos interactivos de resultados, con opciones avanzadas de filtrado y personalización, permitiendo un análisis detallado y en tiempo real de los datos de rendimiento.",
+    "skills": ["React", "Redux", "Css", "jest"],
+    "demo": "https://dashboard-gray-six.vercel.app/",
+    "source": "https://github.com/madera-design/Dashboard"
+  }
+]
