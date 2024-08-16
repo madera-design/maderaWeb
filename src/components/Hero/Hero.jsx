@@ -37,7 +37,7 @@ export const Hero = () => {
           <a href="https://wa.me/523123017517" className={styles.contactBtnWapp}>
             WhatsApp
           </a>
-          <a download="" href="src/documents/JoseAMadera-CV.pdf" className={styles.contactBtn}>
+          <a download="" href="src/documents/JoseMaderaCV.pdf" className={styles.contactBtn}>
             Descargar CV
           </a>
         </div>
