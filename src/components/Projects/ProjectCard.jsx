@@ -27,13 +27,13 @@ export const ProjectCard = ({
       <div className={styles.links}>
         {
           demo != "" ?
-            <a href={demo != "" ? demo : "#"} className={styles.link}>
+            <a  target="_blank" href={demo != "" ? demo : "#"} className={styles.link}>
             Demo
           </a> : ''
         }
         {
           source != "" ?
-          <a href={source} className={styles.link}>
+          <a target="_blank" href={source} className={styles.link}>
             Source
           </a> : ''
         }
