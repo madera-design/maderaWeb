@@ -24,7 +24,7 @@
     "source": ""
   },
   {
-    "title": "Sitema PMN",
+    "title": "Sistema PMN",
     "imageSrc": "projects/project.png",
     "description": "Sistema administrativo para PMN, empresa de seguros especializada en doctores, que automatiza la gestión de pólizas y reclamos, mejorando la precisión, rapidez y atención al cliente en su servicio.",
     "skills": ["Vue 3", "Pinia", "PrimeVue", "Sass", "Javascript"],
