@@ -25,3 +25,49 @@
   gap: 15px;
   width: 100%;
 }
+
+/* .container {
+  padding: 2rem;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-align: center;
+} */
+
+.slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.slide {
+  flex: 0 0 auto; /* Permite que los elementos sean desplazables */
+  width: 80%; /* Ajusta el ancho de las tarjetas */
+  max-width: 300px; /* Ancho máximo para cada tarjeta */
+  scroll-snap-align: center; /* Hace que se alinee al deslizar */
+}
+
+.slide:first-child {
+  margin-left: 1rem; /* Opcional: Espaciado al inicio */
+}
+
+.slide:last-child {
+  margin-right: 1rem; /* Opcional: Espaciado al final */
+}
+
+.slider::-webkit-scrollbar {
+  height: 8px;
+}
+
+.slider::-webkit-scrollbar-thumb {
+  background: #888; /* Color del scroll */
+  border-radius: 4px;
+}
+
+.slider::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
