@@ -14,7 +14,7 @@ export const About = () => {
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
-        <a download="" href="src/documents/JoseMaderaCV.pdf" className={styles.contactBtn}>
+        <a download="" href="src/documents/JAMGCV.pdf" className={styles.contactBtn}>
             Descargar CV
           </a>
         </div>

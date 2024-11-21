@@ -1,5 +1,16 @@
 [
   {
+    "role": "Lider Tecnico Frontend",
+    "organisation": "VASS",
+    "startDate": "Julio, 2024",
+    "endDate": "Actual",
+    "experiences": [
+      "Gestión del proyecto de principio a fin", 
+      "Revisión de codigo y asesorias tecnicas",
+      "Gestión y organización de las tareas del equipo"
+    ]
+  },
+  {
     "role": "Sr. Desarrollador fronted",
     "organisation": "Mobiik",
     "startDate": "Septiembre, 2023",
@@ -20,17 +31,5 @@
       "Integración de librerías externas para mejorar la usabilidad.",
       "Gestión del estado global con Redux."
     ]
-  },
-  {
-    "role": "Desarrollador frontend Jr.",
-    "organisation": "Elipse web",
-    "startDate": "Enero, 2020",
-    "endDate": "Diciembre, 2021",
-    "experiences": [
-      "Diseñar y prototipar sitio web",
-      "Maquetación de sitio web",
-      "Levantamiento de requerimientos para el sitio web"
-    ],
-    "imageSrc": "history/netflix.png"
   }
 ]

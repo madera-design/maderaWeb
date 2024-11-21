@@ -4,6 +4,7 @@ import styles from "./Experience.module.css";
 import skills from "../../data/en/skills.json";
 import history from "../../data/en/history.json";
 import { getImageUrl } from "../../utils";
+import Tecnologi from "./Tecnologi";
 
 export const Experience = () => {
   return (
@@ -42,6 +43,7 @@ export const Experience = () => {
           })}
         </ul>
       </div>
+      {/* <Tecnologi /> */}
     </section>
   );
 };
